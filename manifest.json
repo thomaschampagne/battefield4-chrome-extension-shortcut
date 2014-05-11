@@ -1,0 +1,20 @@
+﻿{
+  "name": "Battlelog",
+  "version": "1.1",
+  "manifest_version": 2,
+  "description": "Battlelog starter app",
+  "app": {
+    "urls": [
+      "*://battlelog.battlefield.com/bf4/"
+    ],
+    "launch": {
+      "web_url": "http://battlelog.battlefield.com/bf4/"
+    }
+  },
+  
+  "icons": {
+    "256": "256.png"
+  },
+  "permissions": [
+  ]
+}
