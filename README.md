@@ -1,7 +1,7 @@
 How to install chrome extension
 ====================
 1. Download latest extension release here:
->https://github.com/thomaschampagne/Battefield4-ChromeExt/releases
+>https://github.com/thomaschampagne/battefield4-chrome-extension-shortcut/releases
 
 2. Extract the <b>.crx</b> file from downloaded archive to your disk.
 3. In chrome, open a new tab and enter the following address .
